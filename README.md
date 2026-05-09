@@ -7,7 +7,6 @@
 *Building scalable, high-quality solutions with a passion for immersive user experiences*
 
 [![Email](https://img.shields.io/badge/Email-haideralidev013@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haideralidev013@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-(+92)--317--5645500-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+923175645500)
 [![Location](https://img.shields.io/badge/Location-Islamabad%2C%20Pakistan-0078D4?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
