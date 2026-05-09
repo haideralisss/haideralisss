@@ -23,6 +23,7 @@ I'm a **Full Stack Software Engineer** skilled in **.NET, C#, MERN/MEAN Stack, S
 
 | Role | Company | Duration |
 |------|---------|----------|
+| 🛠️ **Full Stack Engineer** | Peersol Technologies | March 2026 – Present |
 | 🛠️ **Full Stack Engineer** | Merik Solutions | June 2024 – Present |
 | 🖥️ **Backend Developer** | White Glove Mastercare (Colorado, USA) | May 2025 – Sep 2025 |
 | ⚙️ **Full Stack Engineer** | EBR Group | Aug 2022 – Sep 2023 |
