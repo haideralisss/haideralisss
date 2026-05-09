@@ -78,7 +78,7 @@ I'm a **Full Stack Software Engineer** skilled in **.NET, C#, MERN/MEAN Stack, S
 
 ---
 
-### 🏥 HealCare — Next-Gen Hospital & Clinic Orchestrator
+### 🏥 HealthCare — Next-Gen Hospital & Clinic Orchestrator
 > Desktop patient management system for hospitals and clinics.
 - Built with **WinForms + .NET 8.0**, Dapper (Micro-ORM), MySQL
 - Hosted on **Microsoft Windows Server** with local network database setup
